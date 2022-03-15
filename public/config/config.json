@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xeA5442C5c77D6B605BB15014Abb0d56B7be2488a",
+  "SCAN_LINK": "https://polygonscan.com/address/0xeA5442C5c77D6B605BB15014Abb0d56B7be2488a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "The Funky Horse Pub",
+  "SYMBOL": "FHP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NFTrade",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/0xeA5442C5c77D6B605BB15014Abb0d56B7be2488a",
+  "SHOW_BACKGROUND": true
+}
